@@ -1,4 +1,4 @@
-# DWH
+# Velocipede Vista: Crafting Insights from Global Cycling Data
 
 ## 📝 Table of Contents
 1. [Project Overview](#introduction)
