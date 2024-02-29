@@ -23,3 +23,36 @@ This an end-to-end data engineering project on the Azure cloud. Where I did data
 - It is a sample Online Transaction Processing (or OLTP) database, which is a type of data processing where multiple transactions occur concurrently. These are shipped by Microsoft with all of their SQL server products.
 
 > For this project I used the **Lightweight (LT) data**: a lightweight and pared down version of the OLTP sample. [Download here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+
+# AdventureWorks Data Warehouse Project
+
+## Overview
+
+The project focuses on creating a data warehouse for AdventureWorks, a company in the bicycle sales industry, aiming to centralize and consolidate data for advanced analytics.
+
+## Objectives
+
+- Consolidate data from various sources for better reporting and analytics.
+- Optimize data utilization for insightful analysis.
+
+## Phases
+
+1. **Define Requirements**: Understanding business goals, identifying data sources, and defining data granularity and architecture.
+2. **ETL Workflow**: Steps for extracting, transforming, and loading data into the DW.
+3. **Testing and Deployment**: Includes unit testing, integration testing, and deployment to production.
+
+## Architecture
+
+Adopts a star schema design for optimized query performance and simplicity.
+
+## Tools and Technologies
+
+- SQL Server Management Studio (SSMS)
+- ODBC Drivers
+- ETL Tools
+
+## Conclusion
+
+This project enables AdventureWorks to leverage data for strategic decisions, covering the journey from data source identification to deployment in a production environment.
+
