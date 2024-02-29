@@ -58,7 +58,36 @@ By using SSIS, I perform ETL process involves extracting data from Csv files, tr
 ### FactOnlineSales Dataflow
 ![sales2](https://github.com/Famz21/DWH/assets/125658739/c2079a20-5882-44fa-9c1f-762e3f086ee2)
 
+### Dim Dataflow
+![all_dim](https://github.com/Famz21/DWH/assets/125658739/9fdfabaf-0ed0-41cd-9e7f-de2d226b5cde)
+
+
 ### DimDate Dataflow
+![DimDate](https://github.com/Famz21/DWH/assets/125658739/88003331-1a00-4a29-abd8-46e6f6432d54)
+
+
+### DimCurrency Dataflow
+![Currency](https://github.com/Famz21/DWH/assets/125658739/abcc6b44-fc28-4951-8bb9-ffea68a78a06)
+
+### DimCustomer Dataflow
+![customerView](https://github.com/Famz21/DWH/assets/125658739/8baf417e-57d5-426a-b64f-8829f5b94751)
+
+
+### DimStore Dataflow
+![dimstore](https://github.com/Famz21/DWH/assets/125658739/dea39f5f-e092-4d60-b730-540717e52146)
+
+
+### DimPromotion Dataflow
+![promotion](https://github.com/Famz21/DWH/assets/125658739/1ee5ebae-32e4-4324-87ac-f457e9774f24)
+
+
+### DimSalesTerritory Dataflow
+![sales_ter](https://github.com/Famz21/DWH/assets/125658739/7996a3ec-3f63-4c37-acc2-abf658f58c1f)
+
+
+### DimGeography Dataflow
+![geo_view](https://github.com/Famz21/DWH/assets/125658739/44178ecb-5ceb-4c07-be74-4b4a7daf3b6a)
+
 
 
 
