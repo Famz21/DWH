@@ -46,6 +46,23 @@ The project focuses on creating a data warehouse for AdventureWorks, a company i
 
 Adopts a star schema design for optimized query performance and simplicity.
 
+![schema](https://github.com/Famz21/DWH/assets/125658739/2a37956b-1324-4a2e-bf2f-a42f06013164)
+
+## ETL Process
+
+By using SSIS, I perform ETL process involves extracting data from Csv files, transforming it to fit our data warehouse schema, and loading it,also i have implemented incremental loading and SCD types to efficiently manage data updates.
+
+### FactStoreSales Dataflow
+![store_sales](https://github.com/Famz21/DWH/assets/125658739/dcee85c6-f321-4c7a-81dd-00a81864eb2f)
+
+### FactOnlineSales Dataflow
+![sales2](https://github.com/Famz21/DWH/assets/125658739/c2079a20-5882-44fa-9c1f-762e3f086ee2)
+
+### DimDate Dataflow
+
+
+
+
 ## Tools and Technologies
 
 - SQL Server Management Studio (SSMS)
